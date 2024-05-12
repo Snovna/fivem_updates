@@ -1,7 +1,7 @@
 {
     "snov_prison": {
-        "currentVersion": "1.4",
-        "updateNotes": ""
+        "currentVersion": "1.5",
+        "updateNotes": "New Menu for jailing, improved overall stability"
     },
     "snov_stretcher": {
         "currentVersion": "1.3",
