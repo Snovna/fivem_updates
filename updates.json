@@ -16,8 +16,8 @@
         "updateNotes": ""
     },
     "snov_cuffs": {
-        "currentVersion": "1.3",
-        "updateNotes": "Improved Sync and fixed some minor bugs"
+        "currentVersion": "1.4",
+        "updateNotes": "Added Zipties"
     },
     "snov_radio": {
         "currentVersion": "1.0",
