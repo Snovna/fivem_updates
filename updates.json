@@ -16,8 +16,8 @@
         "updateNotes": ""
     },
     "snov_cuffs": {
-        "currentVersion": "1.4",
-        "updateNotes": "Added Zipties"
+        "currentVersion": "1.5",
+        "updateNotes": "Added Zipties, added option so the player can't move"
     },
     "snov_radio": {
         "currentVersion": "1.0",
