@@ -22,5 +22,10 @@
     "snov_radio": {
         "currentVersion": "1.0",
         "updateNotes": ""
+    },
+    "snov_sperrzone": {
+        "currentVersion": "1.0",
+        "updateNotes": "",
+        "updateUrl": "https://github.com/Snovna/snov_sperrzone"
     }
 }
