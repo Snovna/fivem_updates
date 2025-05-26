@@ -24,8 +24,8 @@
         "updateNotes": ""
     },
     "snov_sperrzone": {
-        "currentVersion": "1.0",
-        "updateNotes": "",
+        "currentVersion": "1.1",
+        "updateNotes": "automatic npc clearing & type specific zones",
         "updateUrl": "https://github.com/Snovna/snov_sperrzone"
     },
     "snov_diving": {
