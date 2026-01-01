@@ -32,5 +32,9 @@
         "currentVersion": "1.0",
         "updateNotes": "",
         "updateUrl": "https://github.com/Snovna/snov_diving"
+    },
+    "snov_jobs": {
+        "currentVersion": "2.0",
+        "updateNotes": "UI Rework, Full CRUD-Operations, NUI Admin Panel"
     }
 }
