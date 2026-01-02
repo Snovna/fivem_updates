@@ -8,8 +8,8 @@
         "updateNotes": "Small Bugfix regarding stretcher load/unload due to Vehicle Flags"
     },
     "snov_importcars": {
-        "currentVersion": "N/A",
-        "updateNotes": "This is a prerelease build, includes bugs and unfinished features"
+        "currentVersion": "1.0",
+        "updateNotes": "Release V1.0"
     },
     "snov_firesiren": {
         "currentVersion": "0.9",
