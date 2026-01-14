@@ -36,5 +36,9 @@
     "snov_jobs": {
         "currentVersion": "2.0",
         "updateNotes": "UI Rework, Full CRUD-Operations, NUI Admin Panel"
+    },
+    "snov_farming": {
+        "currentVersion": "1.0",
+        "updateNotes": ""
     }
 }
