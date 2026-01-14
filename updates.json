@@ -38,7 +38,7 @@
         "updateNotes": "UI Rework, Full CRUD-Operations, NUI Admin Panel"
     },
     "snov_farming": {
-        "currentVersion": "1.0",
-        "updateNotes": ""
+        "currentVersion": "1.1",
+        "updateNotes": "Fix recipe labels & farming rate limits"
     }
 }
