@@ -40,5 +40,21 @@
     "snov_farming": {
         "currentVersion": "1.1",
         "updateNotes": "Fix recipe labels & farming rate limits"
+    },
+    "snov_elevators": {
+        "currentVersion": "1.1",
+        "updateNotes": ""
+    },
+    "snov_evidence": {
+        "currentVersion": "1.0.0",
+        "updateNotes": ""
+    },
+    "snov_license": {
+        "currentVersion": "1.0",
+        "updateNotes": ""
+    },
+    "snov_mdt": {
+        "currentVersion": "1.0.0",
+        "updateNotes": ""
     }
 }
