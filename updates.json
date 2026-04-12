@@ -34,8 +34,8 @@
         "updateUrl": "https://github.com/Snovna/snov_diving"
     },
     "snov_jobs": {
-        "currentVersion": "2.1",
-        "updateNotes": "New exports (IsPoliceJob, IsGovernmentJob), startup performance optimization"
+        "currentVersion": "2.2",
+        "updateNotes": "Multi-Job Permission exports"
     },
     "snov_farming": {
         "currentVersion": "1.1",
