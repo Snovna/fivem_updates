@@ -34,8 +34,8 @@
         "updateUrl": "https://github.com/Snovna/snov_diving"
     },
     "snov_jobs": {
-        "currentVersion": "2.2",
-        "updateNotes": "Multi-Job Permission exports"
+        "currentVersion": "2.3",
+        "updateNotes": "ESX society registration so paycheck debits are properly logged"
     },
     "snov_farming": {
         "currentVersion": "1.1",
