@@ -56,5 +56,9 @@
     "snov_mdt": {
         "currentVersion": "1.0.0",
         "updateNotes": ""
+    },
+    "snov_banking_billing": {
+        "currentVersion": "1.0.2",
+        "updateNotes": "Fix paycheck row 25 fallback to 'Arbeitgeber' (pagination metadata strip); reclassify unemployed paychecks as welfare"
     }
 }
