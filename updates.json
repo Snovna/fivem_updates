@@ -34,8 +34,8 @@
         "updateUrl": "https://github.com/Snovna/snov_diving"
     },
     "snov_jobs": {
-        "currentVersion": "2.3",
-        "updateNotes": "ESX society registration so paycheck debits are properly logged"
+        "currentVersion": "2.5",
+        "updateNotes": "Banking integration (cash safe + has_bank_account toggle), SLV theme system, drag-and-drop rank reorder in admin, customizable rank 0 on job creation"
     },
     "snov_farming": {
         "currentVersion": "1.1",
