@@ -1,7 +1,7 @@
 {
     "snov_prison": {
-        "currentVersion": "2.0",
-        "updateNotes": "Completely new system for escape"
+        "currentVersion": "2.1.0",
+        "updateNotes": "Fixed some bugs, more robust item confiscation and more configurables"
     },
     "snov_stretcher": {
         "currentVersion": "1.5.1",
