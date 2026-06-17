@@ -58,7 +58,7 @@
         "updateNotes": ""
     },
     "snov_banking_billing": {
-        "currentVersion": "1.0.3",
-        "updateNotes": "Native snov_bb society backend (esx_addonaccount no longer required for newer ESX builds — set Config.SocietyAccountBackend = 'snov_bb'); EnsureSocietyAccount export for runtime job provisioning"
+        "currentVersion": "1.1.0",
+        "updateNotes": "Bugfixing with external ressources calling"
     }
 }
