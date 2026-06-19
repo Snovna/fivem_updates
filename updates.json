@@ -46,7 +46,7 @@
         "updateNotes": ""
     },
     "snov_evidence": {
-        "currentVersion": "1.1.0",
+        "currentVersion": "1.2.0",
         "updateNotes": ""
     },
     "snov_license": {
@@ -54,7 +54,7 @@
         "updateNotes": ""
     },
     "snov_mdt": {
-        "currentVersion": "1.0.0",
+        "currentVersion": "1.1.0",
         "updateNotes": ""
     },
     "snov_banking_billing": {
