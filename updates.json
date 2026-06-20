@@ -38,8 +38,8 @@
         "updateNotes": "Banking integration (cash safe + has_bank_account toggle), SLV theme system, drag-and-drop rank reorder in admin, customizable rank 0 on job creation"
     },
     "snov_farming": {
-        "currentVersion": "1.2",
-        "updateNotes": "Fixed blip colors and processor defaults, auto-prefill position/heading, skill UI fixes, enforced recipe level requirement, AFK farming on by default"
+        "currentVersion": "1.3",
+        "updateNotes": "Cayo Perico support, clearer processing/save error messages, corrected blip colors, sensible processor/zone defaults, enforced recipe level requirement, skill UI fixes, simpler recipe naming, per-recipe processing time falls back to the processor"
     },
     "snov_elevators": {
         "currentVersion": "1.1",
@@ -62,4 +62,5 @@
         "updateNotes": "Bugfixing with external ressources calling"
     }
 }
+
 
