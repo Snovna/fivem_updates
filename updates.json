@@ -34,8 +34,8 @@
     "updateUrl": "https://github.com/Snovna/snov_diving"
   },
   "snov_jobs": {
-    "currentVersion": "2.5",
-    "updateNotes": "Banking integration (cash safe + has_bank_account toggle), SLV theme system, drag-and-drop rank reorder in admin, customizable rank 0 on job creation"
+    "currentVersion": "2.5.1",
+    "updateNotes": "Small bugfix with displaying [E] Text"
   },
   "snov_farming": {
     "currentVersion": "1.3",
@@ -54,8 +54,8 @@
     "updateNotes": ""
   },
   "snov_mdt": {
-    "currentVersion": "1.1.2",
-    "updateNotes": "Welcome/onboarding screen now on the tablet (German greeting, badge numbers from #1001), typing animation at stationary terminals; fixes: brand-new profile lookup crash and civilian OG-plate audit-log noise"
+    "currentVersion": "1.1.10",
+    "updateNotes": "Bugfixes mostly"
   },
   "snov_banking_billing": {
     "currentVersion": "1.1.0",
