@@ -50,8 +50,8 @@
     "updateNotes": ""
   },
   "snov_license": {
-    "currentVersion": "2.0.0",
-    "updateNotes": ""
+    "currentVersion": "2.1.0",
+    "updateNotes": "New U.S. passport ID card, Department of Justice branding for the lawyer/bailbonds licences, issuer name shown on issued licences, and a card-display bugfix."
   },
   "snov_mdt": {
     "currentVersion": "1.2.3",
