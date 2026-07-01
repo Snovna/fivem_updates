@@ -54,8 +54,8 @@
     "updateNotes": ""
   },
   "snov_mdt": {
-    "currentVersion": "1.2.2",
-    "updateNotes": "New Report and Approval Flow + Fixes"
+    "currentVersion": "1.2.3",
+    "updateNotes": "Personnel: default squad auto-assignment + officer deactivation. Reports: preview toggle/layout + edit-draft persistence. Warrants: person/premises targets + bench warrant for unpaid invoices. Licenses: suspend/reinstate from the person view + license-based bail bondsman. Display fixes."
   },
   "snov_banking_billing": {
     "currentVersion": "1.1.0",
