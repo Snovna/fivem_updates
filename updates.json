@@ -54,8 +54,8 @@
     "updateNotes": "New U.S. passport ID card, Department of Justice branding for the lawyer/bailbonds licences, issuer name shown on issued licences, and a card-display bugfix."
   },
   "snov_mdt": {
-    "currentVersion": "1.2.3",
-    "updateNotes": "Personnel: default squad auto-assignment + officer deactivation. Reports: preview toggle/layout + edit-draft persistence. Warrants: person/premises targets + bench warrant for unpaid invoices. Licenses: suspend/reinstate from the person view + license-based bail bondsman. Display fixes."
+    "currentVersion": "1.3.0",
+    "updateNotes": "Major report-system overhaul — only the arrest bills now. Multi-step approval chain along the command hierarchy; one-click 'Record arrest' carries the incident report's charges without double-billing; new 'closed_filed' archive status for incident/investigation reports; 'no contest' plea returns; message forwarding; new officer handbook; plus numerous billing and recall fixes."
   },
   "snov_banking_billing": {
     "currentVersion": "1.1.0",
