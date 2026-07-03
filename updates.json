@@ -54,7 +54,7 @@
     "updateNotes": "New U.S. passport ID card, Department of Justice branding for the lawyer/bailbonds licences, issuer name shown on issued licences, and a card-display bugfix."
   },
   "snov_mdt": {
-    "currentVersion": "1.4.0",
+    "currentVersion": "1.3.1",
     "updateNotes": "Supervisors can now void citations directly from the person view (permission-gated, auto-cancels the linked invoice); per-suspect investigation notes on reports."
   },
   "snov_banking_billing": {
