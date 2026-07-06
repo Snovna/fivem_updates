@@ -58,7 +58,7 @@
     "updateNotes": "Citation tickets now state the statutory 72-hour payment deadline, and unpaid citations are reported to the DoJ (previously only report fines). Closed-filed reports are now visible in the criminal record and on warrant cards."
   },
   "snov_banking_billing": {
-    "currentVersion": "1.1.1",
-    "updateNotes": "Traffic citations and police fines are now due within 72 hours of issuance (previously 7/14 days)."
+    "currentVersion": "1.1.2",
+    "updateNotes": "Society (faction) accounts now correctly fund employee paychecks in the native banking backend."
   }
 }
