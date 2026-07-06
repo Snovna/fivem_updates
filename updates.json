@@ -34,8 +34,8 @@
     "updateUrl": "https://github.com/Snovna/snov_diving"
   },
   "snov_jobs": {
-    "currentVersion": "2.5.1",
-    "updateNotes": "Small bugfix with displaying [E] Text"
+    "currentVersion": "2.5.2",
+    "updateNotes": "snov_jobs now runs the paycheck loop itself and pays every employee from their faction bank account every 15 minutes (requires snov_banking_billing; disable the built-in ESX paycheck)."
   },
   "snov_farming": {
     "currentVersion": "1.4",
@@ -58,7 +58,7 @@
     "updateNotes": "Citation tickets now state the statutory 72-hour payment deadline, and unpaid citations are reported to the DoJ (previously only report fines). Closed-filed reports are now visible in the criminal record and on warrant cards."
   },
   "snov_banking_billing": {
-    "currentVersion": "1.1.2",
-    "updateNotes": "Society (faction) accounts now correctly fund employee paychecks in the native banking backend."
+    "currentVersion": "1.1.3",
+    "updateNotes": "Employee salaries are now paid straight from the faction bank account via a dedicated export used by snov_jobs."
   }
 }
