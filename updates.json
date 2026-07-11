@@ -62,7 +62,7 @@
     "updateNotes": "Employee salaries are now paid straight from the faction bank account via a dedicated export used by snov_jobs."
   },
   "snov_documents": {
-    "currentVersion": "1.0.0",
-    "updateNotes": "Initial release"
+    "currentVersion": "1.0.1",
+    "updateNotes": "Photocopies can now be filed into the binder and stay flagged as copies (fixed filed/extracted copies being converted to originals)."
   }
 }
