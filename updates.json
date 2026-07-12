@@ -46,8 +46,8 @@
     "updateNotes": ""
   },
   "snov_evidence": {
-    "currentVersion": "1.2.0",
-    "updateNotes": ""
+    "currentVersion": "1.2.1",
+    "updateNotes": "Petrol can, fire extinguisher and other non-firearm weapons no longer leave endless bullet casings and projectiles in the ballistics evidence system."
   },
   "snov_license": {
     "currentVersion": "2.2.0",
