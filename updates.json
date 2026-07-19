@@ -34,8 +34,8 @@
     "updateUrl": "https://github.com/Snovna/snov_diving"
   },
   "snov_jobs": {
-    "currentVersion": "2.5.2",
-    "updateNotes": "snov_jobs now runs the paycheck loop itself and pays every employee from their faction bank account every 15 minutes (requires snov_banking_billing; disable the built-in ESX paycheck)."
+    "currentVersion": "2.6.0",
+    "updateNotes": "Added job bell and 3D positioning for points."
   },
   "snov_farming": {
     "currentVersion": "1.4",
