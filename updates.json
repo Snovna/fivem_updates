@@ -34,8 +34,8 @@
     "updateUrl": "https://github.com/Snovna/snov_diving"
   },
   "snov_jobs": {
-    "currentVersion": "2.6.0",
-    "updateNotes": "Added job bell and 3D positioning for points."
+    "currentVersion": "2.6.1",
+    "updateNotes": "Capped the ox_target interaction distance to 2m so points (storage, staff management, duty, doorbell) no longer trigger from far away."
   },
   "snov_farming": {
     "currentVersion": "1.4",
