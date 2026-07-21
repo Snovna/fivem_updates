@@ -50,8 +50,8 @@
     "updateNotes": "Petrol can, fire extinguisher and other non-firearm weapons no longer leave endless bullet casings and projectiles in the ballistics evidence system."
   },
   "snov_license": {
-    "currentVersion": "2.2.0",
-    "updateNotes": "Weapon permits are now issued by the police via a new weapon_training certificate and the IssueWeaponLicense export; added SWAT authorization and config-driven job badges for more departments (ambulance, DoJ) with a new judicial card style."
+    "currentVersion": "2.3.0",
+    "updateNotes": "Written firearms theory exam at the Ammu-Nation replaces the pay-and-receive weapon_training: a custom NUI form drawn from the Waffengesetz, server-graded with an on-screen result breakdown and a non-refundable attempt fee. Passing files an official, stamped Ammu-Nation certificate into the citizen's inventory (via snov_documents), with an NPC reprint for lost copies."
   },
   "snov_mdt": {
     "currentVersion": "1.4.1",
