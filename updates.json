@@ -54,8 +54,8 @@
     "updateNotes": "Written firearms theory exam at the Ammu-Nation replaces the pay-and-receive weapon_training: a custom NUI form drawn from the Waffengesetz, server-graded with an on-screen result breakdown and a non-refundable attempt fee. Passing files an official, stamped Ammu-Nation certificate into the citizen's inventory (via snov_documents), with an NPC reprint for lost copies."
   },
   "snov_mdt": {
-    "currentVersion": "1.4.1",
-    "updateNotes": "Mass arrest: one arrest report now collects and bills all of a person's open cases (junction-based, one-click warrant execution while booking). SVPD can issue and renew weapon permits from the person file (new issue_licenses permission; prior convictions raise a non-blocking medical-assessment warning). Custody status is now derived from the report type - the manual toggles are gone; fixed incident reports being blocked from approval by an orphaned bail decision."
+    "currentVersion": "1.5.0",
+    "updateNotes": "Billing redesign: closing a report no longer creates invoices automatically - officers (and DoJ judges) issue fines manually per suspect right on the report, with cancel and re-issue while unpaid, automatic bail crediting and hard guards (disputed pleas and incident reports cannot be billed). New Invoices sidebar section lists every MDT invoice with live banking status plus all open not-yet-billed claims. Investigation reports can no longer be created (existing ones stay readable). Requires snov_banking_billing with migration 002."
   },
   "snov_banking_billing": {
     "currentVersion": "1.1.3",
