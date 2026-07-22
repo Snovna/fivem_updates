@@ -58,8 +58,8 @@
     "updateNotes": "Billing redesign: closing a report no longer creates invoices automatically - officers (and DoJ judges) issue fines manually per suspect right on the report, with cancel and re-issue while unpaid, automatic bail crediting and hard guards (disputed pleas and incident reports cannot be billed). New Invoices sidebar section lists every MDT invoice with live banking status plus all open not-yet-billed claims. Investigation reports can no longer be created (existing ones stay readable). Requires snov_banking_billing with migration 002."
   },
   "snov_banking_billing": {
-    "currentVersion": "1.1.3",
-    "updateNotes": "Employee salaries are now paid straight from the faction bank account via a dedicated export used by snov_jobs."
+    "currentVersion": "1.1.4",
+    "updateNotes": "Extended the invoice source index to cover per-suspect lookups (migration 002) - required by the snov_mdt 1.5.0 manual billing redesign, which reads invoice status live from banking."
   },
   "snov_documents": {
     "currentVersion": "1.0.1",
