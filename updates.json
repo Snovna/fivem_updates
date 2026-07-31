@@ -62,7 +62,7 @@
     "updateNotes": "Extended the invoice source index to cover per-suspect lookups (migration 002) - required by the snov_mdt 1.5.0 manual billing redesign, which reads invoice status live from banking."
   },
   "snov_documents": {
-    "currentVersion": "1.0.2",
-    "updateNotes": "Jobs granted template rights ingame can now issue job documents without needing a configured letterhead, so companies can hand out paperwork in the name of the business. Official papers (official form, certificate) stay reserved for jobs that have a letterhead in Config.JobBranding."
+    "currentVersion": "1.1.0",
+    "updateNotes": "Filing cabinets and mailboxes: place them as a prop or a zone from the new Infrastructure tab, sort paperwork into named compartments, and let other resources fill mailboxes through a server export API. Requires migrations 014 through 017."
   }
 }
