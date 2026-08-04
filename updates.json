@@ -54,8 +54,8 @@
     "updateNotes": "Written firearms theory exam at the Ammu-Nation replaces the pay-and-receive weapon_training: a custom NUI form drawn from the Waffengesetz, server-graded with an on-screen result breakdown and a non-refundable attempt fee. Passing files an official, stamped Ammu-Nation certificate into the citizen's inventory (via snov_documents), with an NPC reprint for lost copies."
   },
   "snov_mdt": {
-    "currentVersion": "1.5.1",
-    "updateNotes": "Fixed vehicles being stuck as deregistered at the DMV: re-registration always failed with a dead-end error, so taking a vehicle off the road could never be undone - for personally owned and fleet vehicles alike."
+    "currentVersion": "1.5.2",
+    "updateNotes": "Fixes the ALPR plate reader, which could come up blank or stop scanning entirely after being toggled. Recommended for everyone on the previous release."
   },
   "snov_banking_billing": {
     "currentVersion": "1.1.4",
