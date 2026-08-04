@@ -54,8 +54,8 @@
     "updateNotes": "Written firearms theory exam at the Ammu-Nation replaces the pay-and-receive weapon_training: a custom NUI form drawn from the Waffengesetz, server-graded with an on-screen result breakdown and a non-refundable attempt fee. Passing files an official, stamped Ammu-Nation certificate into the citizen's inventory (via snov_documents), with an NPC reprint for lost copies."
   },
   "snov_mdt": {
-    "currentVersion": "1.5.0",
-    "updateNotes": "Billing redesign: closing a report no longer creates invoices automatically - officers (and DoJ judges) issue fines manually per suspect right on the report, with cancel and re-issue while unpaid, automatic bail crediting and hard guards (disputed pleas and incident reports cannot be billed). New Invoices sidebar section lists every MDT invoice with live banking status plus all open not-yet-billed claims. Investigation reports can no longer be created (existing ones stay readable). Requires snov_banking_billing with migration 002."
+    "currentVersion": "1.5.1",
+    "updateNotes": "Fixed vehicles being stuck as deregistered at the DMV: re-registration always failed with a dead-end error, so taking a vehicle off the road could never be undone - for personally owned and fleet vehicles alike."
   },
   "snov_banking_billing": {
     "currentVersion": "1.1.4",
