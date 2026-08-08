@@ -8,8 +8,8 @@
     "updateNotes": "Small Bugfix regarding stretcher load/unload due to Vehicle Flags"
   },
   "snov_importcars": {
-    "currentVersion": "1.1",
-    "updateNotes": "Pre-Release Version"
+    "currentVersion": "1.1.1",
+    "updateNotes": "The dealership can now buy vehicles from players and sell them to companies, with special vehicles (police cars, limousines) in their own storage tab. Also closes an SQL injection and several unguarded callbacks - existing installations must run the ALTER statements in createDatabase.sql."
   },
   "snov_firesiren": {
     "currentVersion": "0.9",
