@@ -16,8 +16,8 @@
     "updateNotes": ""
   },
   "snov_cuffs": {
-    "currentVersion": "1.6",
-    "updateNotes": "complete rework of interaction system, added unconscious check for search"
+    "currentVersion": "1.6.1",
+    "updateNotes": "Various bugfixes."
   },
   "snov_radio": {
     "currentVersion": "1.0",
