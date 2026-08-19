@@ -16,8 +16,8 @@
     "updateNotes": ""
   },
   "snov_cuffs": {
-    "currentVersion": "1.6.1",
-    "updateNotes": "Various bugfixes."
+    "currentVersion": "1.7.0",
+    "updateNotes": "All in-game text now runs through ox_lib locales, with German and English included - nothing is hardcoded German any more, and another language is just a JSON file in locales/. The ox_inventory item definitions and matching item images now ship in the items/ folder, so handcuffs, zipties, ankle cuffs, cuff keys and pliers no longer have to be written by hand."
   },
   "snov_radio": {
     "currentVersion": "1.0",
