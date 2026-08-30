@@ -46,8 +46,8 @@
     "updateNotes": ""
   },
   "snov_evidence": {
-    "currentVersion": "1.2.1",
-    "updateNotes": "Petrol can, fire extinguisher and other non-firearm weapons no longer leave endless bullet casings and projectiles in the ballistics evidence system."
+    "currentVersion": "1.3.0",
+    "updateNotes": "Evidence and lab jobs can now be handed in without an open case and assigned to a report afterwards, either from a new tab in the evidence room or from the lab results. Also fixes the status check that was meant to keep evidence off closed cases and in practice let everything through."
   },
   "snov_license": {
     "currentVersion": "2.3.0",
