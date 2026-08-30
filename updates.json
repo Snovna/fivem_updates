@@ -54,8 +54,8 @@
     "updateNotes": "Written firearms theory exam at the Ammu-Nation replaces the pay-and-receive weapon_training: a custom NUI form drawn from the Waffengesetz, server-graded with an on-screen result breakdown and a non-refundable attempt fee. Passing files an official, stamped Ammu-Nation certificate into the citizen's inventory (via snov_documents), with an NPC reprint for lost copies."
   },
   "snov_mdt": {
-    "currentVersion": "1.5.2",
-    "updateNotes": "Fixes the ALPR plate reader, which could come up blank or stop scanning entirely after being toggled. Recommended for everyone on the previous release."
+    "currentVersion": "1.6.0",
+    "updateNotes": "Large release. Any officer can now edit any open report - the Report Officer stays responsible for it and is the only one who submits, recalls and hands that responsibility on. Bail decisions moved into the MDT: the form is printed for the roleplay and no longer has to be scanned back in, and every decision asks for confirmation first. Citations are now snov_documents papers, printed straight into the officer's hands. Adds rank-based permissions, a training catalogue and standing orders. Needs snov_documents with the 'citation' paper type. Migrations 036-039 run on start. Note: much of this has not been tested on a live server yet."
   },
   "snov_banking_billing": {
     "currentVersion": "1.1.4",
