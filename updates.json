@@ -46,8 +46,8 @@
     "updateNotes": ""
   },
   "snov_evidence": {
-    "currentVersion": "1.4.0",
-    "updateNotes": "Robberies now leave traces behind. Fingerprints and DNA can be created at a location instead of only on a vehicle, and officers dust for them at the scene with the fingerprint brush; the brush previously only worked from a driver's seat. Also fixes glove detection for female characters, who were read as gloved with bare hands and therefore never left a fingerprint, and who could not put on latex gloves at all."
+    "currentVersion": "1.4.1",
+    "updateNotes": "Bugfixing exports"
   },
   "snov_license": {
     "currentVersion": "2.3.0",
