@@ -1,0 +1,68 @@
+{
+  "snov_prison": {
+    "currentVersion": "2.1.0",
+    "updateNotes": "Item confiscation on jailing is more reliable. More of the prison setup is configurable, plus general bug fixes."
+  },
+  "snov_stretcher": {
+    "currentVersion": "1.5.1",
+    "updateNotes": "Fixes loading and unloading the stretcher into vehicles."
+  },
+  "snov_importcars": {
+    "currentVersion": "1.1.1",
+    "updateNotes": "The dealership now buys vehicles from players and sells them to companies. Special vehicles such as police cars and limousines get their own storage tab. Run the included database update after installing."
+  },
+  "snov_firesiren": {
+    "currentVersion": "0.9",
+    "updateNotes": ""
+  },
+  "snov_cuffs": {
+    "currentVersion": "1.7.0",
+    "updateNotes": "All in-game text is now translatable, with German and English included. Item definitions and images for handcuffs, zipties, ankle cuffs, keys and pliers ship with the resource."
+  },
+  "snov_radio": {
+    "currentVersion": "1.0",
+    "updateNotes": ""
+  },
+  "snov_sperrzone": {
+    "currentVersion": "1.1",
+    "updateNotes": "Zones now clear NPCs automatically and can be set up per zone type.",
+    "updateUrl": "https://github.com/Snovna/snov_sperrzone"
+  },
+  "snov_diving": {
+    "currentVersion": "1.0",
+    "updateNotes": "",
+    "updateUrl": "https://github.com/Snovna/snov_diving"
+  },
+  "snov_jobs": {
+    "currentVersion": "2.7.1",
+    "updateNotes": "Factions without a bank account can use the cash safe in the boss menu again. Deposits, withdrawals and the money log no longer depend on a company account."
+  },
+  "snov_farming": {
+    "currentVersion": "1.4",
+    "updateNotes": "Depleted farming zones now show a clear message instead of a generic error. Hidden skills no longer appear in the skills menu."
+  },
+  "snov_elevators": {
+    "currentVersion": "1.1",
+    "updateNotes": ""
+  },
+  "snov_evidence": {
+    "currentVersion": "1.4.1",
+    "updateNotes": "Fixes the exports used by other resources."
+  },
+  "snov_license": {
+    "currentVersion": "2.3.0",
+    "updateNotes": "Weapon training at Ammu-Nation is now a written theory exam instead of a simple purchase, graded on the spot with a result breakdown and a non-refundable attempt fee. Passing issues an official stamped certificate into the citizen's inventory, and an NPC reprints lost copies."
+  },
+  "snov_mdt": {
+    "currentVersion": "1.6.1",
+    "updateNotes": "Adds fake plates: an item that swaps a vehicle's real plate, keeping it out of the registry and off ALPR hits. Police can read the real VIN at the engine bay to counter it, and the DMV issues replacements for owners who lost their original."
+  },
+  "snov_banking_billing": {
+    "currentVersion": "1.1.5",
+    "updateNotes": "Bank cards show their item image again in the ATM card picker."
+  },
+  "snov_documents": {
+    "currentVersion": "1.2.1",
+    "updateNotes": "Filing cabinets and mailboxes are rebuilt with named compartments, drag to sort, search across the whole cabinet and one-button deposit. Adds citations as their own paper type and a global power-of-attorney template. Install together with snov_mdt 1.6.0 or newer."
+  }
+}
