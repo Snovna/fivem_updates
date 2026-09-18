@@ -34,8 +34,8 @@
     "updateUrl": "https://github.com/Snovna/snov_diving"
   },
   "snov_jobs": {
-    "currentVersion": "2.7.1",
-    "updateNotes": "Factions without a bank account can use the cash safe in the boss menu again. Deposits, withdrawals and the money log no longer depend on a company account."
+    "currentVersion": "2.8.1",
+    "updateNotes": "Illegal factions now pay their members out of the cash safe as a wage item that can be carried, traded, stolen and unpacked into cash - add the included ox_inventory entries before using it."
   },
   "snov_farming": {
     "currentVersion": "1.4",
