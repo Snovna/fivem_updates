@@ -1,7 +1,7 @@
 {
   "snov_prison": {
-    "currentVersion": "2.1.0",
-    "updateNotes": "Item confiscation on jailing is more reliable. More of the prison setup is configurable, plus general bug fixes."
+    "currentVersion": "2.5.0",
+    "updateNotes": "Police book prisoners in through a terminal that lists everyone serving, their remaining time and their confiscated property. Sentences can be interrupted for court appearances, and the resource now runs on QBCore as well as ESX."
   },
   "snov_stretcher": {
     "currentVersion": "1.5.1",
