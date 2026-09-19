@@ -54,8 +54,8 @@
     "updateNotes": "Weapon training at Ammu-Nation is now a written theory exam instead of a simple purchase, graded on the spot with a result breakdown and a non-refundable attempt fee. Passing issues an official stamped certificate into the citizen's inventory, and an NPC reprints lost copies."
   },
   "snov_mdt": {
-    "currentVersion": "1.6.1",
-    "updateNotes": "Adds fake plates: an item that swaps a vehicle's real plate, keeping it out of the registry and off ALPR hits. Police can read the real VIN at the engine bay to counter it, and the DMV issues replacements for owners who lost their original."
+    "currentVersion": "1.6.3",
+    "updateNotes": "Adds a bridge to snov_prison: the booking terminal can show what a person still has to serve, mark a sentence as served and pull the inmate photo."
   },
   "snov_banking_billing": {
     "currentVersion": "1.1.5",
