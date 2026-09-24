@@ -46,8 +46,8 @@
     "updateNotes": ""
   },
   "snov_evidence": {
-    "currentVersion": "1.4.1",
-    "updateNotes": "Fixes the exports used by other resources."
+    "currentVersion": "1.4.2",
+    "updateNotes": "Evidence without a serial number — ammunition, drugs, documents and plain items — can be sealed and stored again instead of being handed back to the officer. A fingerprint or DNA match on an unidentified person now resolves the name instead of leaving it unknown."
   },
   "snov_license": {
     "currentVersion": "2.3.0",
