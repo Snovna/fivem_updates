@@ -1,7 +1,7 @@
 {
   "snov_prison": {
-    "currentVersion": "2.5.3",
-    "updateNotes": "Prisoners can now be made to walk to the gate when their sentence runs out instead of being released on the spot; it is off by default. Prison work pays less in the metal shop and on the paint crew, the machines in the metal shop are animated, and the laundry can no longer trap a prisoner holding a load with every machine running. The setup commands are off by default and need an ACE permission when enabled."
+    "currentVersion": "2.5.4",
+    "updateNotes": "Releasing an inmate from the booking terminal now needs them standing at the desk. Prison work is animated throughout, and the prison note shows the job the inmate is on."
   },
   "snov_stretcher": {
     "currentVersion": "1.5.1",
