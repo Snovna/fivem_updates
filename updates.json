@@ -8,8 +8,8 @@
     "updateNotes": "All stretcher texts are now translatable, with English and German included. Unconscious patients now stay on the stretcher instead of falling through the world."
   },
   "snov_importcars": {
-    "currentVersion": "1.1.1",
-    "updateNotes": "The dealership now buys vehicles from players and sells them to companies. Special vehicles such as police cars and limousines get their own storage tab. Run the included database update after installing."
+    "currentVersion": "1.2.0",
+    "updateNotes": "The dealership now runs on plain ESX with every other integration optional, and ships in English and German. When updating, keep your current job and account settings."
   },
   "snov_firesiren": {
     "currentVersion": "0.9",
