@@ -34,8 +34,8 @@
     "updateUrl": "https://github.com/Snovna/snov_diving"
   },
   "snov_jobs": {
-    "currentVersion": "2.8.1",
-    "updateNotes": "Illegal factions now pay their members out of the cash safe as a wage item that can be carried, traded, stolen and unpacked into cash - add the included ox_inventory entries before using it."
+    "currentVersion": "2.9.0",
+    "updateNotes": "Job, boss and admin menus are now available in English and German, and Snov Banking & Billing is now optional. Install together with snov_banking_billing 1.2.0."
   },
   "snov_farming": {
     "currentVersion": "1.4",
