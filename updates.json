@@ -16,8 +16,8 @@
     "updateNotes": ""
   },
   "snov_cuffs": {
-    "currentVersion": "1.7.0",
-    "updateNotes": "All in-game text is now translatable, with German and English included. Item definitions and images for handcuffs, zipties, ankle cuffs, keys and pliers ship with the resource."
+    "currentVersion": "1.8.0",
+    "updateNotes": "Distances, item names, controls, the handcuff model and who may restrain are now adjustable in an editable config file. The weapon wheel is now blocked while restrained, and escorting takes the escort's weapons away."
   },
   "snov_radio": {
     "currentVersion": "1.0",
