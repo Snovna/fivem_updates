@@ -38,8 +38,8 @@
     "updateNotes": "Job, boss and admin menus are now available in English and German, and Snov Banking & Billing is now optional. Install together with snov_banking_billing 1.2.0."
   },
   "snov_farming": {
-    "currentVersion": "1.4",
-    "updateNotes": "Depleted farming zones now show a clear message instead of a generic error. Hidden skills no longer appear in the skills menu."
+    "currentVersion": "1.4.1",
+    "updateNotes": ""
   },
   "snov_elevators": {
     "currentVersion": "1.1",
