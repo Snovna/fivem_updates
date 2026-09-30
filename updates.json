@@ -58,8 +58,8 @@
     "updateNotes": "Adds a bridge to snov_prison: the booking terminal can show what a person still has to serve, mark a sentence as served and pull the inmate photo."
   },
   "snov_banking_billing": {
-    "currentVersion": "1.1.5",
-    "updateNotes": "Bank cards show their item image again in the ATM card picker."
+    "currentVersion": "1.2.0",
+    "updateNotes": "Banking is now available in English and German and runs without Snov Jobs. Install together with snov_jobs 2.9.0."
   },
   "snov_documents": {
     "currentVersion": "1.2.1",
