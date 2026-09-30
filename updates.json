@@ -4,8 +4,8 @@
     "updateNotes": "A prison break now keeps the prison in lockdown until a warden repairs it, and admins can end a lockdown with /repairprison. A broken broom now stops the yard shift until the inmate fetches a new one."
   },
   "snov_stretcher": {
-    "currentVersion": "1.5.1",
-    "updateNotes": "Fixes loading and unloading the stretcher into vehicles."
+    "currentVersion": "1.7.0",
+    "updateNotes": "All stretcher texts are now translatable, with English and German included. Unconscious patients now stay on the stretcher instead of falling through the world."
   },
   "snov_importcars": {
     "currentVersion": "1.1.1",
