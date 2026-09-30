@@ -1,7 +1,7 @@
 {
   "snov_prison": {
-    "currentVersion": "2.5.4",
-    "updateNotes": "Releasing an inmate from the booking terminal now needs them standing at the desk. Prison work is animated throughout, and the prison note shows the job the inmate is on."
+    "currentVersion": "2.5.5",
+    "updateNotes": "A prison break now keeps the prison in lockdown until a warden repairs it, and admins can end a lockdown with /repairprison. A broken broom now stops the yard shift until the inmate fetches a new one."
   },
   "snov_stretcher": {
     "currentVersion": "1.5.1",
