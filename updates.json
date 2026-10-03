@@ -1,7 +1,7 @@
 {
   "snov_prison": {
-    "currentVersion": "2.5.5",
-    "updateNotes": "A prison break now keeps the prison in lockdown until a warden repairs it, and admins can end a lockdown with /repairprison. A broken broom now stops the yard shift until the inmate fetches a new one."
+    "currentVersion": "2.5.6",
+    "updateNotes": "Prison breaks now work without the metal shop: with it disabled, yard duty turns up scrap metal that replaces the plates in the shovel recipes. Prisoners are no longer released early after the resource restarts."
   },
   "snov_stretcher": {
     "currentVersion": "1.7.0",
