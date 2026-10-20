@@ -64,5 +64,9 @@
   "snov_documents": {
     "currentVersion": "1.2.1",
     "updateNotes": "Filing cabinets and mailboxes are rebuilt with named compartments, drag to sort, search across the whole cabinet and one-button deposit. Adds citations as their own paper type and a global power-of-attorney template. Install together with snov_mdt 1.6.0 or newer."
+  },
+  "snov_gps": {
+    "currentVersion": "1.2.0",
+    "updateNotes": "Ambulance and fire now each get their own GPS with green and red markers, and a dispatcher role sees every unit on one map."
   }
 }
