@@ -68,5 +68,9 @@
   "snov_gps": {
     "currentVersion": "1.2.0",
     "updateNotes": "Ambulance and fire now each get their own GPS with green and red markers, and a dispatcher role sees every unit on one map."
+  },
+  "snov_ecuffs": {
+    "currentVersion": "1.0.0",
+    "updateNotes": "Officers can fit an electronic ankle monitor that shows the wearer on their GPS and can be shared with colleagues or the whole department. Install together with snov_gps 1.2.0 or newer."
   }
 }
