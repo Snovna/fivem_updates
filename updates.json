@@ -72,5 +72,9 @@
   "snov_ecuffs": {
     "currentVersion": "1.0.0",
     "updateNotes": "Officers can fit an electronic ankle monitor that shows the wearer on their GPS and can be shared with colleagues or the whole department. Install together with snov_gps 1.2.0 or newer."
+  },
+  "snov_baustelle": {
+    "currentVersion": "1.0.0",
+    "updateNotes": "Initial release."
   }
 }
