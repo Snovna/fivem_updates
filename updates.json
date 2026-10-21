@@ -24,8 +24,8 @@
     "updateNotes": ""
   },
   "snov_sperrzone": {
-    "currentVersion": "1.1",
-    "updateNotes": "Zones now clear NPCs automatically and can be set up per zone type.",
+    "currentVersion": "1.2",
+    "updateNotes": "Improved vehicle stopping in zones.",
     "updateUrl": "https://github.com/Snovna/snov_sperrzone"
   },
   "snov_diving": {
