@@ -4,8 +4,8 @@
     "updateNotes": "Prison breaks now work without the metal shop: with it disabled, yard duty turns up scrap metal that replaces the plates in the shovel recipes. Prisoners are no longer released early after the resource restarts."
   },
   "snov_stretcher": {
-    "currentVersion": "1.7.0",
-    "updateNotes": "All stretcher texts are now translatable, with English and German included. Unconscious patients now stay on the stretcher instead of falling through the world."
+    "currentVersion": "1.7.2",
+    "updateNotes": "Conscious patients now stay on the stretcher when it is loaded into a vehicle, instead of falling off and having to get in separately."
   },
   "snov_importcars": {
     "currentVersion": "1.2.0",
