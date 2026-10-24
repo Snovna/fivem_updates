@@ -76,5 +76,9 @@
   "snov_baustelle": {
     "currentVersion": "1.0.0",
     "updateNotes": "Initial release."
+  },
+  "snov_rcs": {
+    "currentVersion": "1.0.0",
+    "updateNotes": "Initial release."
   }
 }
