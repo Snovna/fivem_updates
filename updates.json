@@ -42,8 +42,8 @@
     "updateNotes": ""
   },
   "snov_elevators": {
-    "currentVersion": "1.1",
-    "updateNotes": ""
+    "currentVersion": "1.2",
+    "updateNotes": "Floors can now restrict which jobs may travel to them, and elevators can be locked out of service entirely."
   },
   "snov_evidence": {
     "currentVersion": "1.5.0",
