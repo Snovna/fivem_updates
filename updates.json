@@ -54,8 +54,8 @@
     "updateNotes": "Weapon training at Ammu-Nation is now a written theory exam instead of a simple purchase, graded on the spot with a result breakdown and a non-refundable attempt fee. Passing issues an official stamped certificate into the citizen's inventory, and an NPC reprints lost copies."
   },
   "snov_mdt": {
-    "currentVersion": "1.8.2",
-    "updateNotes": "Job vehicles owned by a player now show the job as holder at the DMV, and fleet management also works while off duty."
+    "currentVersion": "1.8.3",
+    "updateNotes": ""
   },
   "snov_banking_billing": {
     "currentVersion": "1.2.0",
