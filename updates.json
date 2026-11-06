@@ -16,8 +16,8 @@
     "updateNotes": ""
   },
   "snov_cuffs": {
-    "currentVersion": "1.8.0",
-    "updateNotes": "Distances, item names, controls, the handcuff model and who may restrain are now adjustable in an editable config file. The weapon wheel is now blocked while restrained, and escorting takes the escort's weapons away."
+    "currentVersion": "1.8.1",
+    "updateNotes": "Using the handcuffs from the hotbar no longer restrains several players in quick succession; there is now a short pause between two arrests."
   },
   "snov_radio": {
     "currentVersion": "1.0",
