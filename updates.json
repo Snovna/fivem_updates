@@ -34,8 +34,8 @@
     "updateUrl": "https://github.com/Snovna/snov_diving"
   },
   "snov_jobs": {
-    "currentVersion": "2.9.0",
-    "updateNotes": "Job, boss and admin menus are now available in English and German, and Snov Banking & Billing is now optional. Install together with snov_banking_billing 1.2.0."
+    "currentVersion": "2.10.0",
+    "updateNotes": "Adds house storages and vaults: admins place them inside player houses with owners, keys and real dial or keypad locks that crime factions can crack with a stethoscope or a hacking device. Players who earn nothing now receive welfare, and the new key and cracking items need to be added to your inventory."
   },
   "snov_farming": {
     "currentVersion": "1.4.1",
