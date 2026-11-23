@@ -46,8 +46,8 @@
     "updateNotes": "Floors can now restrict which jobs may travel to them, and elevators can be locked out of service entirely."
   },
   "snov_evidence": {
-    "currentVersion": "1.5.0",
-    "updateNotes": "Evidence is now available in English and German, following the server's ox_lib language setting. A new optional setting lets civilians dispose of old casings and projectiles."
+    "currentVersion": "1.6.0",
+    "updateNotes": "Latex gloves are now used up when put on."
   },
   "snov_license": {
     "currentVersion": "2.3.0",
